@@ -1,9 +1,16 @@
-# React + Vite
+# Front end Sneaker shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides drag slider and simple web design using[React](https://react.dev/),[vite](https://vitejs.dev/),[Tailwind](https://tailwindcss.com/)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-<code>npm run dev</code>
+to run this project 
+
+Install dependencies
+```bash
+npm install
+```
+
+run on the localHost
+```bash
+npm run dev
+```
