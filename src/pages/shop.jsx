@@ -18,8 +18,8 @@ export default function Shop() {
         })
     }
 
-    return <div className="bg-gradient-to-r from-zinc-700 to-neutral-800 pt-24 flexflex-col h-screen overflow-x-hidden">
-        <div className="flex flex-row flex-1 h-3/4">
+    return <div className="bg-gradient-to-r from-zinc-700 to-neutral-800 pt-24 flex flex-col h-screen overflow-x-hidden">
+        <div className="flex flex-col-reverseol justify-center items-center md:flex-row flex-1 h-3/4">
             <div className="w-1/2 flex justify-center items-center">
                 <img src={onShow.img} />
             </div>
